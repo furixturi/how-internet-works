@@ -3,7 +3,7 @@
 
 …Or one answer to the famous “what happens when you type an URL in your browser address bar and hit the Enter key” question.
 
-![The DNS Lookup Journey Diagram]("DNS Lookup.jpg")
+![The DNS Lookup Journey Diagram](https://raw.githubusercontent.com/furixturi/how-internet-works/master/dns/DNS%20lookup.jpg)
 
 Finally I thought I might as well figure this out and take some note, then I made the charming graph above with [https://app.diagrams.net/](https://app.diagrams.net/) (sorry I still typed [draw.io](https://draw.io) in my browser address bar and watched it redirected).
 
